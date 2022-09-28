@@ -11,9 +11,9 @@
 _start:
 	.global _start
 
- addi	x4, x0, 'k'			// place your first initial, 'lower case', between the single quotes such as 'k'
+ addi	x4, x0, 'f'			// place your first initial, 'lower case', between the single quotes such as 'f'
  slli	x4, x4, 8
- addi	x4, x4, 'g'			// place your last initial, 'lower case', between the single quotes such as 'g'
+ addi	x4, x4, 'l'			// place your last initial, 'lower case', between the single quotes such as 'l'
  slli	x4, x4, 8
  addi	x3, x0, 0xa5		// load 0xa5 into x3
  nop					// use the register view and record the value in register x3
