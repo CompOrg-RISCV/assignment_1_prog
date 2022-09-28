@@ -2,7 +2,7 @@
  * assignment_1_test.s
  *
  *  Created on: April 18th, 2022
- *      Author: Keith Graham
+ *      Author: 
  */
 
  // Section .crt0 is always placed from address 0
