@@ -1,10 +1,10 @@
 {
-  "sdkPath": "/home/project/ia_riscv32i/work/ia/sdk",
+  "sdkPath": "/home/project/demo_project/work/ia/sdk",
   "iaOrCa": "ia",
   "compileConfigOptions": {
     "compilerOptimization": "0",
     "debugLevel": "3",
-    "noStdLib": false,
+    "noStdLib": true,
     "nostartfiles": false,
     "nodefaultlibs": false,
     "nosymbolinfo": false,
